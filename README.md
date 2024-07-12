@@ -5,9 +5,8 @@
 - 👯 I’m looking to collaborate on open-source AI projects.
 - 🤔 I’m looking for help with integrating AI solutions in financial tech.
 - 💬 Ask me about optimisation, financial modeling, AI applications, and fundraising.
-- 📫 How to reach me: theophilecordiez@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a glider pilot with 200 flight hours, my longest flight 7h45 (with no external power).
+- ⚡ Fun fact: I'm a glider pilot with 200 flight hours, my record is staying 7h45 in the air (with no external power).
 
 <h3>My most recent articles</h3>
 <ul>
