@@ -14,6 +14,7 @@
   <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>Why and how to create a bankruptcy prediction model?</i></a></li>
   <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>An attempt to map the AI market</i></a></li>
   <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>Where to look at in the Insurtech space ?</i></a></li>
+  <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>How much a problem worths fixing</i></a></li>
 
 </ul>
 
