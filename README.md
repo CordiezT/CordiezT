@@ -3,7 +3,7 @@
 I'm an engineer with a strong foundation in Applied Mathematics. I have acquired extensive experience in NLP and ML through working on various projects addressing real-world problems.
 
 - 💬 Feel free to ask me about optimization techniques, financial modeling, practical AI applications.
-- ⚡ Weird/Fun fact: I'm an avid glider pilot with over 250 flight hours. My personal best is staying aloft for 7 hours and 45 minutes without any external power. Look at one of my flights trace [here](https://www.weglide.org/flight/160430)
+- ⚡ Weird/Fun fact: I'm an avid glider pilot with over 250 flight hours. My personal best is staying aloft for 7 hours and 45 minutes without any external power. Look at one of my flights [here](https://www.weglide.org/flight/160430) (334 km)
 
 
 #### Things I've worked on
