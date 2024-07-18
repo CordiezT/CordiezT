@@ -1,33 +1,23 @@
 ## 👋 Hi there, I'm Theophile Cordiez 👋
 
-I'm an engineer specialised in AI. My background is in Applied Mathematics and I worked on Natural Language Processing research while doing my MSc at Cranfield University (before ChatGPT even existed).
+I'm an engineer with a strong foundation in Applied Mathematics. I have acquired extensive experience in NLP and ML through working on various projects addressing real-world problems.
 
-I work currently at Passion Capital as part of the investment team. 
+- 💬 Feel free to ask me about optimization techniques, financial modeling, practical AI applications.
+- ⚡ Weird/Fun fact: I'm an avid glider pilot with over 250 flight hours. My personal best is staying aloft for 7 hours and 45 minutes without any external power.
 
-- 💬 Ask me about optimisation, financial modeling, AI applications, and fundraising.
-- ⚡ Some fun fact about me: I'm a glider pilot with 200 flight hours, my record is staying 7h45 in the air (with no external power).
 
-<h3>My most recent articles</h3>
-<h4>Venture Capital</h4>
-<ul>
-  <li><a href="https://medium.com/@theophilecordiez/data-federation-and-omics-a-new-frontier-in-drug-discovery-68edcfcea98e"><i>Data Federation and Omics: A New Frontier in Drug Discovery</i></a></li>
-  <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>Why and how to create a bankruptcy prediction model?</i></a></li>
-  <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>An attempt to map the AI market</i></a></li>
-  <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>Where to look at in the Insurtech space ?</i></a></li>
-  <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>How much a problem worths fixing</i></a></li>
-</ul>
-<h4>Data Science / Optimisation / Simulation </h4>
-<ul>
-  <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>Theoretical physics: Ising model simulation via Monte-Carlo to showcase a phase transition of second order in ferromagnetic materials</i></a></li>
-<li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i> Proof of concept for the digitisation of airports via a smart contract solution for baggage logistics</i></a></li>
-  <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>Computer-vision based system for detecting Covid-19 hazardous human interaction</i></a></li>
-  <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i>  Geospatial analysis of innovation clusters in a city based on document clustering methods</i></a></li>
-    <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i> Simulated annealing hybrid method for optimising time constrained delivery by a set of vehicles</i></a></li>
-      <li><a href="https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579"><i> Customer feedback multi-shot classification with LLMs</i></a></li>
-  
-</ul>
+#### Things I've worked on
+- [Geospatial analysis of innovation clusters in a city based on document clustering methods](https://github.com/CordiezT/Master-Thesis)
+- [Simulated annealing hybrid method for optimising time constrained delivery by a set of vehicles](https://github.com/CordiezT/projet2a)
+- [How to predict a bankruptcy with Machine Learning](https://medium.com/@theophilecordiez/why-and-how-to-create-a-bankruptcy-prediction-model-b559bbd50579)
+- [Data Federation and Omics: A New Frontier in Drug Discovery](https://medium.com/@theophilecordiez/data-federation-and-omics-a-new-frontier-in-drug-discovery-68edcfcea98e)
+- Computer-vision based system for detecting Covid-19 hazardous human interaction
+- Proof of concept for the digitisation of airports via a smart contract solution for baggage logistics
+- Customer feedback multi-shot classification with LLMs
+- Theoretical physics: Ising model simulation via Monte-Carlo to showcase a phase transition of second order in ferromagnetic materials
 
-<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
-<a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
+
+<a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
 
 ![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
