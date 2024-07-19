@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Theophile Cordiez 👋
 
-My journey in the AI space started with a passion for mathematics. At Cranfield University, I researched Natural Language Processing before ChatGPT existed, I worked on various real-world problem such as improving truck logistics with algorithms, predicting bankruptcy with ML while working at an Insurtech startup. Now, at Passion Capital, I leverage my knowledge of AI to support and invest in tech startups. I'm also an avid glider pilot, always exploring new horizons -- check my flights [here](https://www.weglide.org/flight/161017) 
 
+My journey into AI began with my first machine learning course at Ecole des Mines in 2019. While at Cranfield University, I delved into Natural Language Processing for document clustering—before ChatGPT existed. I've tackled real-world challenges like optimizing truck logistics and predicting bankruptcy using ML, at an Insurtech startup. Now, as part of the investment team at Passion Capital, I use my AI expertise to scout and invest in tech startups. I'm also an avid glider pilot, always exploring new horizons. Check out one of my flights [here](https://www.weglide.org/flight/161017) 
 
 #### Things I've worked on
 - [Geospatial analysis of innovation clusters in a city based on document clustering methods](https://github.com/CordiezT/Master-Thesis)
