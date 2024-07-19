@@ -1,9 +1,6 @@
 ## 👋 Hi there, I'm Theophile Cordiez 👋
 
-I'm an engineer with a strong foundation in Applied Mathematics. I have acquired extensive experience in NLP and ML through working on various projects addressing real-world problems.
-
-- 💬 Feel free to ask me about optimization techniques, financial modeling, practical AI applications.
-- ⚡ Weird/Fun fact: I'm an avid glider pilot with over 250 flight hours. My personal best is staying aloft for 7 hours and 45 minutes without any external power. Look at one of my flights [here](https://www.weglide.org/flight/160430) (334 km)
+My journey in the AI space started with a passion for mathematics. At Cranfield University, I researched Natural Language Processing before ChatGPT existed, I worked on various real-world problem such as improving truck logistics with algorithms, predicting bankruptcy with ML while working at an Insurtech startup. Now, at Passion Capital, I leverage my knowledge of AI to support and invest in tech startups. I'm also an avid glider pilot, always exploring new horizons -- check my flights [here](https://www.weglide.org/flight/161017) 
 
 
 #### Things I've worked on
