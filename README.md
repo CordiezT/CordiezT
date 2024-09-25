@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Theophile Cordiez 👋
 
-I'm an AI enthusiast and investment analyst passionate about new technologies. My journey into artificial intelligence began in 2019 during my engineering studies at École des Mines. At Cranfield University, I delved deeper into Natural Language Processing for document clustering—before tools like ChatGPT existed.
+I scout tech startups at Passion Capital, where I lead sourcing efforts. My background includes developing machine learning models for predicting bankruptcy and customer churn at Dimpl, and creating an automated feedback analysis system while freelancing.
 
-I've tackled real-world challenges such as optimizing logistics routes and helping predicting bankruptcies using machine learning at an insurtech startup Dimpl. Now, as part of the investment team at Passion Capital, I help scout tech startups.
+I hold a Master's in Applied Artificial Intelligence from Cranfield University and a Master's in Finance from ESSEC Business School.
 
-When I'm not working, you'll find me soaring the skies. I've been flying for the past 10 years. You can check out one of my flights [here](https://www.weglide.org/flight/161017) 
+Outside of work, I’m an avid glider pilot with 250 flight hours and enjoy sailing. You can check out one of my flights here. [here](https://www.weglide.org/flight/161017) 
 
 #### Things I've worked on
 - [Geospatial analysis of innovation clusters in a city based on document clustering methods](https://github.com/CordiezT/Master-Thesis)
