@@ -2,8 +2,6 @@
 
 I’m passionate about technology and the applications of artificial intelligence. Before joining Passion Capital, I led the development of predictive models for bankruptcy at a fintech startup in France and provided ad-hoc support to founders.
 
-I hold a MSc in Applied Artificial Intelligence from Cranfield University and a Master in Finance from ESSEC Business School.
-
 In my free time, I enjoy gliding—I've logged 250 flight hours. You can check out one of my flights(https://www.weglide.org/flight/161017) 
 
 #### Things I've worked on
