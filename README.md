@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Theophile Cordiez 👋
 
-I scout tech startups at Passion Capital, where I lead sourcing efforts. My background includes developing machine learning models for predicting bankruptcy and customer churn at Dimpl, and creating an automated feedback analysis system while freelancing.
+I’m passionate about technology and the applications of artificial intelligence. Before joining Passion Capital, I led the development of predictive models for bankruptcy at a fintech startup in France and provided ad-hoc support to founders.
 
-I hold a Master's in Applied Artificial Intelligence from Cranfield University and a Master's in Finance from ESSEC Business School.
+I hold a MSc in Applied Artificial Intelligence from Cranfield University and a Master in Finance from ESSEC Business School.
 
-Outside of work, I’m an avid glider pilot with 250 flight hours and enjoy sailing. You can check out one of my flights here. [here](https://www.weglide.org/flight/161017) 
+In my free time, I enjoy gliding—I've logged 250 flight hours. You can check out one of my flights(https://www.weglide.org/flight/161017) 
 
 #### Things I've worked on
 - [Geospatial analysis of innovation clusters in a city based on document clustering methods](https://github.com/CordiezT/Master-Thesis)
